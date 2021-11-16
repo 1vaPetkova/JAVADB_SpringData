@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<managers>
+    <manager first_name="Pesho" last_name="Peshov">
+        <subordinates>
+            <employee first_name="Gosho" last_name="Goshov" income="7250.00"/>
+            <employee first_name="Tosho" last_name="Toshov" income="6500.00"/>
+        </subordinates>
+    </manager>
+    <manager first_name="Tosho" last_name="Toshov">
+        <subordinates/>
+    </manager>
+    <manager first_name="Gosho" last_name="Goshov">
+        <subordinates>
+            <employee first_name="Gicheto" last_name="Gicheva" income="2800.00"/>
+            <employee first_name="Kiro" last_name="Kirov" income="9200.00"/>
+        </subordinates>
+    </manager>
+    <manager first_name="Kiro" last_name="Kirov">
+        <subordinates/>
+    </manager>
+    <manager first_name="Gicheto" last_name="Gicheva">
+        <subordinates/>
+    </manager>
+    <manager first_name="New" last_name="Employee">
+        <subordinates/>
+    </manager>
+    <manager first_name="Kireto" last_name="Employee">
+        <subordinates/>
+    </manager>
+    <manager first_name="Tseko" last_name="Tsekov">
+        <subordinates/>
+    </manager>
+    <manager first_name="Haralambi" last_name="Gochev">
+        <subordinates/>
+    </manager>
+    <manager>
+        <subordinates/>
+    </manager>
+    <manager>
+        <subordinates/>
+    </manager>
+    <manager last_name="Xml">
+        <subordinates/>
+    </manager>
+    <manager first_name="From" last_name="XmlCho">
+        <subordinates/>
+    </manager>
+    <manager first_name="From xml File" last_name="XmlChetaa">
+        <subordinates/>
+    </manager>
+    <manager first_name="Kiro from xml File" last_name="XmlChetaa">
+        <subordinates/>
+    </manager>
+</managers>

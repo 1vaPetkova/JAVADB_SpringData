@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category name="Weapons">
+        <product-count>12</product-count>
+        <average-price>505.655834</average-price>
+        <total-revenue>6067.87</total-revenue>
+    </category>
+    <category name="Business">
+        <product-count>12</product-count>
+        <average-price>769.459167</average-price>
+        <total-revenue>9233.51</total-revenue>
+    </category>
+    <category name="Adult">
+        <product-count>11</product-count>
+        <average-price>571.500000</average-price>
+        <total-revenue>6286.50</total-revenue>
+    </category>
+    <category name="Garden">
+        <product-count>11</product-count>
+        <average-price>867.853637</average-price>
+        <total-revenue>9546.39</total-revenue>
+    </category>
+    <category name="Electronics">
+        <product-count>9</product-count>
+        <average-price>753.123334</average-price>
+        <total-revenue>6778.11</total-revenue>
+    </category>
+    <category name="For Children">
+        <product-count>9</product-count>
+        <average-price>684.672223</average-price>
+        <total-revenue>6162.05</total-revenue>
+    </category>
+    <category name="Drugs">
+        <product-count>8</product-count>
+        <average-price>239.297500</average-price>
+        <total-revenue>1914.38</total-revenue>
+    </category>
+    <category name="Sports">
+        <product-count>7</product-count>
+        <average-price>950.400000</average-price>
+        <total-revenue>6652.80</total-revenue>
+    </category>
+    <category name="Fashion">
+        <product-count>7</product-count>
+        <average-price>711.378572</average-price>
+        <total-revenue>4979.65</total-revenue>
+    </category>
+    <category name="Autoparts">
+        <product-count>7</product-count>
+        <average-price>397.784286</average-price>
+        <total-revenue>2784.49</total-revenue>
+    </category>
+    <category name="Other">
+        <product-count>7</product-count>
+        <average-price>588.197143</average-price>
+        <total-revenue>4117.38</total-revenue>
+    </category>
+</categories>

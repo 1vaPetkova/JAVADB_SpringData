@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cars>
+    <car id="44" make="Mercedes" model="A 140" travelled-distance="92233754775807"/>
+    <car id="46" make="Mercedes" model="A 160" travelled-distance="9223372036"/>
+    <car id="47" make="Mercedes" model="A 160 CDI" travelled-distance="4775807"/>
+    <car id="51" make="Mercedes" model="A 170 CDI" travelled-distance="9223775807"/>
+    <car id="53" make="Mercedes" model="W124" travelled-distance="922336854775807"/>
+    <car id="62" make="Mercedes" model="W124" travelled-distance="2147647"/>
+    <car id="49" make="Mercedes" model="W202" travelled-distance="92233754775807"/>
+    <car id="55" make="Mercedes" model="W202" travelled-distance="2147647"/>
+    <car id="58" make="Mercedes" model="W203" travelled-distance="5807"/>
+    <car id="61" make="Mercedes" model="W204" travelled-distance="9285807"/>
+    <car id="54" make="Mercedes" model="W210" travelled-distance="9223372036854775807"/>
+    <car id="60" make="Mercedes" model="W210" travelled-distance="2147483647"/>
+    <car id="56" make="Mercedes" model="W211" travelled-distance="922775807"/>
+    <car id="59" make="Mercedes" model="W211" travelled-distance="92775807"/>
+    <car id="50" make="Mercedes" model="W211" travelled-distance="47757"/>
+    <car id="52" make="Mercedes" model="W212" travelled-distance="927254775807"/>
+    <car id="48" make="Mercedes" model="W212" travelled-distance="54775807"/>
+    <car id="57" make="Mercedes" model="W212" travelled-distance="2183647"/>
+    <car id="45" make="Mercedes" model="W212" travelled-distance="2147647"/>
+    <car id="63" make="Mercedes" model="W212" travelled-distance="927"/>
+</cars>

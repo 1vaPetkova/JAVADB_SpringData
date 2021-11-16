@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Parsley" price="519.06" seller="Nicole Martinez"/>
+    <product name="Propranolol Hydrochloride" price="546.95" seller="Jacqueline Perez"/>
+    <product name="TERSI" price="554.91" seller="Paula Hill"/>
+    <product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" seller="Christine Gomez"/>
+    <product name="Agaricus Equisetum Special Order" price="585.93" seller="Jonathan Rodriguez"/>
+    <product name="No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory" price="616.19" seller="Anna Clark"/>
+    <product name="Childrens Allegra Allergy" price="650.97" seller="Sarah Day"/>
+    <product name="ENBREL" price="673.97" seller="Jacqueline Perez"/>
+    <product name="CLARINS Ever Matte SPF 15 - 105 Nude" price="696.06" seller="Christine Gomez"/>
+</products>

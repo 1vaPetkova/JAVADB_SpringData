@@ -1,0 +1,73 @@
+[
+  {
+    "subordinates": [
+      {
+        "salary": 7250.00,
+        "managerLastName": "Peshov",
+        "firstName": "Gosho",
+        "lastName": "Goshov"
+      },
+      {
+        "salary": 6500.00,
+        "managerLastName": "Peshov",
+        "firstName": "Tosho",
+        "lastName": "Toshov"
+      }
+    ],
+    "firstName": "Pesho",
+    "lastName": "Peshov"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Tosho",
+    "lastName": "Toshov"
+  },
+  {
+    "subordinates": [
+      {
+        "salary": 2800.00,
+        "managerLastName": "Goshov",
+        "firstName": "Gicheto",
+        "lastName": "Gicheva"
+      },
+      {
+        "salary": 9200.00,
+        "managerLastName": "Goshov",
+        "firstName": "Kiro",
+        "lastName": "Kirov"
+      }
+    ],
+    "firstName": "Gosho",
+    "lastName": "Goshov"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Kiro",
+    "lastName": "Kirov"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Gicheto",
+    "lastName": "Gicheva"
+  },
+  {
+    "subordinates": [],
+    "firstName": "New",
+    "lastName": "Employee"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Kireto",
+    "lastName": "Employee"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Tseko",
+    "lastName": "Tsekov"
+  },
+  {
+    "subordinates": [],
+    "firstName": "Haralambi",
+    "lastName": "Gochev"
+  }
+]

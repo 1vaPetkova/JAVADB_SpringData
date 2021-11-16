@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users count="17">
+    <user firstName="Carl" lastName="Daniels" age="59">
+        <sold-products count="4">
+            <product name="Phenylephrine HCl" price="459.89"/>
+            <product name="Alcohol Free Antiseptic" price="1486.07"/>
+            <product name="Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius" price="135.82"/>
+            <product name="Warfarin Sodium" price="770.05"/>
+        </sold-products>
+    </user>
+    <user lastName="Thompson" age="46">
+        <sold-products count="4">
+            <product name="Smooth texture Orange flavor" price="976.65"/>
+            <product name="Spironolactone" price="933.69"/>
+            <product name="GOONG SECRET CALMING BATH" price="742.47"/>
+            <product name="Warfarin Sodium" price="1379.79"/>
+        </sold-products>
+    </user>
+    <user firstName="Fred" lastName="Allen" age="57">
+        <sold-products count="3">
+            <product name="SNORING HP" price="53.59"/>
+            <product name="Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride" price="1028.27"/>
+            <product name="EMEND" price="1365.51"/>
+        </sold-products>
+    </user>
+    <user firstName="Patricia" lastName="Cooper" age="72">
+        <sold-products count="3">
+            <product name="Oxygen" price="1242.92"/>
+            <product name="PredniSONE" price="286.43"/>
+            <product name="Gilotrif" price="1454.77"/>
+        </sold-products>
+    </user>
+    <user firstName="Nicole" lastName="Martinez" age="28">
+        <sold-products count="3">
+            <product name="Parsley" price="519.06"/>
+            <product name="SEPHORA Acne-Fighting Mattifying Moisturizer" price="1019.28"/>
+            <product name="Albuterol" price="108.95"/>
+        </sold-products>
+    </user>
+    <user lastName="Baker">
+        <sold-products count="2">
+            <product name="Clearskin" price="968.59"/>
+            <product name="Lamotrigine Extended Release" price="245.63"/>
+        </sold-products>
+    </user>
+    <user firstName="Sarah" lastName="Day" age="33">
+        <sold-products count="2">
+            <product name="Finasteride" price="1374.01"/>
+            <product name="Childrens Allegra Allergy" price="650.97"/>
+        </sold-products>
+    </user>
+    <user firstName="Christina" lastName="Patterson" age="63">
+        <sold-products count="2">
+            <product name="CVS Therapeutic Menthol Pain Reliever" price="1033.42"/>
+            <product name="Clarins Paris Skin Illusion - 114 cappuccino" price="811.42"/>
+        </sold-products>
+    </user>
+    <user firstName="Jennifer" lastName="Riley">
+        <sold-products count="2">
+            <product name="Zonisamide" price="1305.41"/>
+            <product name="U-max Multi BB" price="137.16"/>
+        </sold-products>
+    </user>
+    <user firstName="Jonathan" lastName="Rodriguez">
+        <sold-products count="2">
+            <product name="Agaricus Equisetum Special Order" price="585.93"/>
+            <product name="Effervescent Cold Relief" price="1436.07"/>
+        </sold-products>
+    </user>
+    <user firstName="Marie" lastName="Williamson">
+        <sold-products count="2">
+            <product name="Shopko Lip Treatment" price="861.42"/>
+            <product name="Head and Shoulders Conditioner" price="1099.59"/>
+        </sold-products>
+    </user>
+    <user lastName="Cunningham">
+        <sold-products count="1">
+            <product name="MEDICATED DANDRUFF" price="1351.02"/>
+        </sold-products>
+    </user>
+    <user firstName="Bonnie" lastName="Fox" age="18">
+        <sold-products count="1">
+            <product name="smart sense nighttime cold and flu relief" price="1101.77"/>
+        </sold-products>
+    </user>
+    <user firstName="Kathy" lastName="Gilbert" age="51">
+        <sold-products count="1">
+            <product name="Archangelica Eucalyptus" price="1334.91"/>
+        </sold-products>
+    </user>
+    <user lastName="Mitchell" age="41">
+        <sold-products count="1">
+            <product name="Care One Hemorrhoidal" price="932.18"/>
+        </sold-products>
+    </user>
+    <user firstName="Emily" lastName="Parker" age="41">
+        <sold-products count="1">
+            <product name="Pollens - Trees, Birch Mix" price="1153.54"/>
+        </sold-products>
+    </user>
+    <user firstName="Gary" lastName="Stevens">
+        <sold-products count="1">
+            <product name="Megestrol Acetate" price="976.15"/>
+        </sold-products>
+    </user>
+</users>

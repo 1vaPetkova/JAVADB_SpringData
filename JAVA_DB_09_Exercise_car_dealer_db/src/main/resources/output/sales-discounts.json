@@ -1,0 +1,211 @@
+[
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C1",
+      "TravelledDistance": 922336854775807
+    },
+    "customerName": "Oren Perlman",
+    "Discount": 0.55,
+    "price": 2935.95,
+    "priceWithDiscount": 1321.1774999999998825620
+  },
+  {
+    "car": {
+      "Make": "Ferrari",
+      "Model": "275",
+      "TravelledDistance": 2147647
+    },
+    "customerName": "Cinthia Lasala",
+    "Discount": 0.45,
+    "price": 360.95,
+    "priceWithDiscount": 198.5225
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 922337807
+    },
+    "customerName": "Ann Mcenaney",
+    "Discount": 0.2,
+    "price": 1201.97,
+    "priceWithDiscount": 961.576
+  },
+  {
+    "car": {
+      "Make": "Ferrari",
+      "Model": "250 GTO",
+      "TravelledDistance": 214747
+    },
+    "customerName": "Garret Capron",
+    "Discount": 0.05,
+    "price": 648.87,
+    "priceWithDiscount": 616.4265
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C8",
+      "TravelledDistance": 2147447
+    },
+    "customerName": "Kristian Engberg",
+    "Discount": 0.4,
+    "price": 633.20,
+    "priceWithDiscount": 379.920
+  },
+  {
+    "car": {
+      "Make": "Ferrari",
+      "Model": "F40",
+      "TravelledDistance": 21447
+    },
+    "customerName": "Yvonne Mccalla",
+    "Discount": 0.25,
+    "price": 746.57,
+    "priceWithDiscount": 559.9275
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500 (2007) Abarth 695 Tributo Maserati",
+      "TravelledDistance": 92236854775807
+    },
+    "customerName": "Natalie Poli",
+    "Discount": 0.05,
+    "price": 252.89,
+    "priceWithDiscount": 240.2455
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W202",
+      "TravelledDistance": 2147647
+    },
+    "customerName": "Brett Brickley",
+    "Discount": 0.55,
+    "price": 376.97,
+    "priceWithDiscount": 169.6364999999999849212
+  },
+  {
+    "car": {
+      "Make": "Fiat",
+      "Model": "500L",
+      "TravelledDistance": 922337204775807
+    },
+    "customerName": "Brett Brickley",
+    "Discount": 0.55,
+    "price": 1884.25,
+    "priceWithDiscount": 847.9124999999999246300
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "GT-R",
+      "TravelledDistance": 21473647
+    },
+    "customerName": "Emmitt Benally",
+    "Discount": 0.1,
+    "price": 837.83,
+    "priceWithDiscount": 754.047
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "X6 M",
+      "TravelledDistance": 2036854775807
+    },
+    "customerName": "Rico Peer",
+    "Discount": 0.2,
+    "price": 590.91,
+    "priceWithDiscount": 472.728
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "X6 M",
+      "TravelledDistance": 2036854775807
+    },
+    "customerName": "Taina Achenbach",
+    "Discount": 0.1,
+    "price": 590.91,
+    "priceWithDiscount": 531.819
+  },
+  {
+    "car": {
+      "Make": "Chevy",
+      "Model": "Camaro",
+      "TravelledDistance": 2147487
+    },
+    "customerName": "Oren Perlman",
+    "Discount": 0.35,
+    "price": 691.90,
+    "priceWithDiscount": 449.7350
+  },
+  {
+    "car": {
+      "Make": "Seat",
+      "Model": "Mii",
+      "TravelledDistance": 214783647
+    },
+    "customerName": "Francis Mckim",
+    "Discount": 0.15000000000000002,
+    "price": 1385.50,
+    "priceWithDiscount": 1177.6750
+  },
+  {
+    "car": {
+      "Make": "Ferrari",
+      "Model": "F40",
+      "TravelledDistance": 2647
+    },
+    "customerName": "Kristian Engberg",
+    "Discount": 0.15,
+    "price": 2283.96,
+    "priceWithDiscount": 1941.3660
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W211",
+      "TravelledDistance": 92775807
+    },
+    "customerName": "Audrea Cardinal",
+    "Discount": 0.1,
+    "price": 2487.97,
+    "priceWithDiscount": 2239.173
+  },
+  {
+    "car": {
+      "Make": "BMW",
+      "Model": "F20",
+      "TravelledDistance": 2147483647
+    },
+    "customerName": "Francis Mckim",
+    "Discount": 0.15000000000000002,
+    "price": 1314.89,
+    "priceWithDiscount": 1117.6565
+  },
+  {
+    "car": {
+      "Make": "Mercedes",
+      "Model": "W212",
+      "TravelledDistance": 54775807
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "Discount": 0.15000000000000002,
+    "price": 934.30,
+    "priceWithDiscount": 794.1550
+  },
+  {
+    "car": {
+      "Make": "Ford",
+      "Model": "Fiesta",
+      "TravelledDistance": 922807
+    },
+    "customerName": "Lino Subia",
+    "Discount": 0.1,
+    "price": 941.95,
+    "priceWithDiscount": 847.755
+  }
+]

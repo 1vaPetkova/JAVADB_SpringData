@@ -1,0 +1,16 @@
+package com.example.springintro.repository;
+
+import com.example.springintro.model.entity.Author;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface AuthorRepository extends JpaRepository<Author, Long> {
+
+    //P06
+    List<Author> findAllByFirstNameEndingWith(String end);
+
+
+}

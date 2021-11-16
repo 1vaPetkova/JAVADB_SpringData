@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user first-name="Fred" last-name="Allen">
+        <sold-products>
+            <product>
+                <name>Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride</name>
+                <price>1028.27</price>
+                <buyer-first-name>Joshua</buyer-first-name>
+                <buyer-last-name>Murray</buyer-last-name>
+            </product>
+            <product>
+                <name>EMEND</name>
+                <price>1365.51</price>
+                <buyer-first-name>Diana</buyer-first-name>
+                <buyer-last-name>Harvey</buyer-last-name>
+            </product>
+            <product>
+                <name>SNORING HP</name>
+                <price>53.59</price>
+            </product>
+        </sold-products>
+    </user>
+    <user last-name="Baker">
+        <sold-products>
+            <product>
+                <name>Clearskin</name>
+                <price>968.59</price>
+                <buyer-first-name>Clarence</buyer-first-name>
+                <buyer-last-name>Fowler</buyer-last-name>
+            </product>
+            <product>
+                <name>Lamotrigine Extended Release</name>
+                <price>245.63</price>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Patricia" last-name="Cooper">
+        <sold-products>
+            <product>
+                <name>PredniSONE</name>
+                <price>286.43</price>
+            </product>
+            <product>
+                <name>Oxygen</name>
+                <price>1242.92</price>
+                <buyer-first-name>Thomas</buyer-first-name>
+                <buyer-last-name>Snyder</buyer-last-name>
+            </product>
+            <product>
+                <name>Gilotrif</name>
+                <price>1454.77</price>
+                <buyer-first-name>Brenda</buyer-first-name>
+                <buyer-last-name>Howell</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user last-name="Cunningham">
+        <sold-products>
+            <product>
+                <name>MEDICATED DANDRUFF</name>
+                <price>1351.02</price>
+                <buyer-last-name>Mitchell</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Carl" last-name="Daniels">
+        <sold-products>
+            <product>
+                <name>Phenylephrine HCl</name>
+                <price>459.89</price>
+            </product>
+            <product>
+                <name>Warfarin Sodium</name>
+                <price>770.05</price>
+                <buyer-first-name>Christina</buyer-first-name>
+                <buyer-last-name>Patterson</buyer-last-name>
+            </product>
+            <product>
+                <name>Alcohol Free Antiseptic</name>
+                <price>1486.07</price>
+                <buyer-first-name>Wanda</buyer-first-name>
+                <buyer-last-name>Harris</buyer-last-name>
+            </product>
+            <product>
+                <name>Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius</name>
+                <price>135.82</price>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Sarah" last-name="Day">
+        <sold-products>
+            <product>
+                <name>Childrens Allegra Allergy</name>
+                <price>650.97</price>
+            </product>
+            <product>
+                <name>Finasteride</name>
+                <price>1374.01</price>
+                <buyer-last-name>Thompson</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Bonnie" last-name="Fox">
+        <sold-products>
+            <product>
+                <name>smart sense nighttime cold and flu relief</name>
+                <price>1101.77</price>
+                <buyer-first-name>Jacqueline</buyer-first-name>
+                <buyer-last-name>Perez</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Kathy" last-name="Gilbert">
+        <sold-products>
+            <product>
+                <name>Archangelica Eucalyptus</name>
+                <price>1334.91</price>
+                <buyer-first-name>Sarah</buyer-first-name>
+                <buyer-last-name>Day</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Nicole" last-name="Martinez">
+        <sold-products>
+            <product>
+                <name>SEPHORA Acne-Fighting Mattifying Moisturizer</name>
+                <price>1019.28</price>
+                <buyer-first-name>Nicole</buyer-first-name>
+                <buyer-last-name>Harris</buyer-last-name>
+            </product>
+            <product>
+                <name>Parsley</name>
+                <price>519.06</price>
+            </product>
+            <product>
+                <name>Albuterol</name>
+                <price>108.95</price>
+            </product>
+        </sold-products>
+    </user>
+    <user last-name="Mitchell">
+        <sold-products>
+            <product>
+                <name>Care One Hemorrhoidal</name>
+                <price>932.18</price>
+                <buyer-first-name>Diana</buyer-first-name>
+                <buyer-last-name>Harvey</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Emily" last-name="Parker">
+        <sold-products>
+            <product>
+                <name>Pollens - Trees, Birch Mix</name>
+                <price>1153.54</price>
+                <buyer-first-name>Ann</buyer-first-name>
+                <buyer-last-name>Stevens</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Christina" last-name="Patterson">
+        <sold-products>
+            <product>
+                <name>CVS Therapeutic Menthol Pain Reliever</name>
+                <price>1033.42</price>
+                <buyer-first-name>Diana</buyer-first-name>
+                <buyer-last-name>Harvey</buyer-last-name>
+            </product>
+            <product>
+                <name>Clarins Paris Skin Illusion - 114 cappuccino</name>
+                <price>811.42</price>
+                <buyer-first-name>Marie</buyer-first-name>
+                <buyer-last-name>Williamson</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Jennifer" last-name="Riley">
+        <sold-products>
+            <product>
+                <name>Zonisamide</name>
+                <price>1305.41</price>
+                <buyer-first-name>Fred</buyer-first-name>
+                <buyer-last-name>Allen</buyer-last-name>
+            </product>
+            <product>
+                <name>U-max Multi BB</name>
+                <price>137.16</price>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Jonathan" last-name="Rodriguez">
+        <sold-products>
+            <product>
+                <name>Effervescent Cold Relief</name>
+                <price>1436.07</price>
+                <buyer-first-name>Benjamin</buyer-first-name>
+                <buyer-last-name>Henry</buyer-last-name>
+            </product>
+            <product>
+                <name>Agaricus Equisetum Special Order</name>
+                <price>585.93</price>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Gary" last-name="Stevens">
+        <sold-products>
+            <product>
+                <name>Megestrol Acetate</name>
+                <price>976.15</price>
+                <buyer-first-name>Jonathan</buyer-first-name>
+                <buyer-last-name>Rodriguez</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user last-name="Thompson">
+        <sold-products>
+            <product>
+                <name>Warfarin Sodium</name>
+                <price>1379.79</price>
+                <buyer-first-name>Amanda</buyer-first-name>
+                <buyer-last-name>Frazier</buyer-last-name>
+            </product>
+            <product>
+                <name>Spironolactone</name>
+                <price>933.69</price>
+                <buyer-first-name>Gloria</buyer-first-name>
+                <buyer-last-name>Alexander</buyer-last-name>
+            </product>
+            <product>
+                <name>GOONG SECRET CALMING BATH</name>
+                <price>742.47</price>
+                <buyer-first-name>Thomas</buyer-first-name>
+                <buyer-last-name>Snyder</buyer-last-name>
+            </product>
+            <product>
+                <name>Smooth texture Orange flavor</name>
+                <price>976.65</price>
+                <buyer-last-name>Cunningham</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+    <user first-name="Marie" last-name="Williamson">
+        <sold-products>
+            <product>
+                <name>Head and Shoulders Conditioner</name>
+                <price>1099.59</price>
+                <buyer-last-name>Schmidt</buyer-last-name>
+            </product>
+            <product>
+                <name>Shopko Lip Treatment</name>
+                <price>861.42</price>
+                <buyer-first-name>Fred</buyer-first-name>
+                <buyer-last-name>Barnes</buyer-last-name>
+            </product>
+        </sold-products>
+    </user>
+</users>
