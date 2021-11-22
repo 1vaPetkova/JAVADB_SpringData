@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="instagraph" />
+        <module name="Instagraph Lite_Skeleton" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Instagraph Lite_Skeleton" options="-parameters" />
       <module name="instagraph" options="-parameters" />
     </option>
   </component>
