@@ -14,7 +14,7 @@ public class P01SoftUni_DB {
             username = username.length() > 0 ? username : "root";
             System.out.println("Enter DB password (<Enter>) for 'root'): ");
             String password = scan.nextLine().trim();
-            password = password.length() > 0 ? password : "root";
+            password = password.length() > 0 ? password : "1234";
 
             //1. Load DB Driver
             try {
