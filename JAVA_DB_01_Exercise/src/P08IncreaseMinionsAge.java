@@ -3,16 +3,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.*;
 import java.util.Arrays;
-import java.util.Properties;
 
 public class P08IncreaseMinionsAge {
-    private static final String CONNECTION_URL = "jdbc:mysql://localhost:3306/";
-    private static final String DB_NAME = "minions_db";
+
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-    private static Connection connection;
 
     public static void main(String[] args) throws SQLException, IOException {
-        connection = getConnection();
+        Connection connection = ConnectionSetUp.getConnection();
         int[] ids = Arrays.stream(reader.readLine().split("\\s+"))
                 .mapToInt(Integer::parseInt)
                 .toArray();
@@ -34,12 +31,5 @@ public class P08IncreaseMinionsAge {
             System.out.println(rs.getString("output"));
         }
 
-    }
-
-    private static Connection getConnection() throws IOException, SQLException {
-        Properties properties = new Properties();
-        properties.setProperty("user", "root");
-        properties.setProperty("password", "");
-        return DriverManager.getConnection(CONNECTION_URL + DB_NAME, properties);
     }
 }

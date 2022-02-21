@@ -3,16 +3,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.*;
 import java.util.Properties;
-import java.util.Scanner;
 
 public class P02GetVillainsNames {
     private static final String CONNECTION_URL = "jdbc:mysql://localhost:3306/";
     private static final String DB_NAME = "minions";
-    private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
     private static Connection connection;
 
     public static void main(String[] args) throws SQLException, IOException {
-        connection = getConnection();
+        connection = ConnectionSetUp.getConnection();
 
         PreparedStatement ps = connection.prepareStatement(
                 "SELECT concat_ws(' ', v.name, COUNT(DISTINCT mv.minion_id)) AS Output\n" +
@@ -29,16 +28,4 @@ public class P02GetVillainsNames {
         }
     }
 
-    private static Connection getConnection() throws IOException, SQLException {
-//        System.out.println("Enter user: ");
-//        String user = reader.readLine();
-//        System.out.println("Enter password: ");
-//        String password = reader.readLine();
-//        user = user.length() > 0 ? user : "root";
-//        password = password.length() > 0 ? password : "";
-        Properties properties = new Properties();
-        properties.setProperty("user", "root");
-        properties.setProperty("password", "");
-        return DriverManager.getConnection(CONNECTION_URL + DB_NAME, properties);
-    }
 }

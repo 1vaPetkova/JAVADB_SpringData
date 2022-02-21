@@ -13,7 +13,8 @@ public class P02Diablo_DB {
                 .getPath();
         System.out.printf("Resourse path: %s\n", path);
         try {
-            props.load(new FileInputStream(path));
+//            props.load(new FileInputStream(path));
+            props.load(new FileInputStream("/home/ivapet/Sivik Stroy Dropbox/Iva Petkova/Salix Engineering/002_Work_documentation/Softuni/IdeaProjects/java.spring_data/java.spring_data/java.db_01_lab/out/production/untitled104/jdbc.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }

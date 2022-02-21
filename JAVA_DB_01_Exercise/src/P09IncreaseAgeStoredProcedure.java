@@ -5,13 +5,10 @@ import java.sql.*;
 import java.util.Properties;
 
 public class P09IncreaseAgeStoredProcedure {
-    private static final String CONNECTION_URL = "jdbc:mysql://localhost:3306/";
-    private static final String DB_NAME = "minions_db";
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-    private static Connection connection;
 
     public static void main(String[] args) throws SQLException, IOException {
-        connection = getConnection();
+        Connection connection = ConnectionSetUp.getConnection();
 
         System.out.println("Enter minion id:");
         int id = Integer.parseInt(reader.readLine());
@@ -26,12 +23,5 @@ public class P09IncreaseAgeStoredProcedure {
         if (rs.next()) {
             System.out.println(rs.getString("Output"));
         }
-    }
-
-    private static Connection getConnection() throws IOException, SQLException {
-        Properties properties = new Properties();
-        properties.setProperty("user", "root");
-        properties.setProperty("password", "");
-        return DriverManager.getConnection(CONNECTION_URL + DB_NAME, properties);
     }
 }

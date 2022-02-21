@@ -1,5 +1,5 @@
-CREATE DATABASE minions_db;
-USE minions_db;
+CREATE DATABASE minions;
+USE minions;
 
 CREATE TABLE towns(
   id INT(11) PRIMARY KEY AUTO_INCREMENT,

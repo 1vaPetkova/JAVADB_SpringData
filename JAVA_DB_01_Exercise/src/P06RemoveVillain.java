@@ -11,7 +11,7 @@ public class P06RemoveVillain {
     private static Connection connection;
 
     public static void main(String[] args) throws SQLException, IOException {
-        connection = getConnection();
+        connection = ConnectionSetUp.getConnection();
         System.out.println("Enter villain id:");
         int villainId = Integer.parseInt(reader.readLine());
         String villainName = checkIfVillainExists(villainId);
@@ -49,10 +49,4 @@ public class P06RemoveVillain {
         return ps.executeUpdate();
     }
 
-    private static Connection getConnection() throws SQLException {
-        Properties properties = new Properties();
-        properties.setProperty("user", "root");
-        properties.setProperty("password", "бебето123");
-        return DriverManager.getConnection(CONNECTION_URL + DB_NAME, properties);
-    }
 }
